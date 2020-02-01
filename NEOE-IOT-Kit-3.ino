@@ -47,8 +47,8 @@ void loop() {
   float t = dht.readTemperature(); 
 
   /* Send data to Blynk */
-    Blynk.virtualWrite(V0, t);    // Temperatur
-    Blynk.virtualWrite(V1, h);    // Luftfeuchtigkeit
+    Blynk.virtualWrite(V0, t);    // Temperature
+    Blynk.virtualWrite(V1, h);    // Humidity
   
   delay(1000);
 
