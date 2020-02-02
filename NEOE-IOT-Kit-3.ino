@@ -2,13 +2,13 @@
   This is a library for the DHT22 temerature and humidity sensor.
   Developed for the NEOE-IOT-Kit 3 "Temperature and humidity with 
   DHT22 / AM2302"
-  www.neoe.io/...
+  Tutorial (German): https://www.neoe.io/blog/tutorials/messen/3/
   
   Developed with input and suggestions from the community. 
   Please share your feedback, thougths and suggestions with us.
   www.neoe.io/kontakt/
 
-  Date of last change: February 1st, 2020
+  Date of last change: February 2nd, 2020
  **************************************************************************/
  
 #include <BlynkSimpleEsp8266.h>
